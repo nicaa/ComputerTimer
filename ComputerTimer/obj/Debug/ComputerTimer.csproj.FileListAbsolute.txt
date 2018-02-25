@@ -1,0 +1,14 @@
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\bin\Debug\ComputerTimer.exe.config
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\bin\Debug\ComputerTimer.exe
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\bin\Debug\ComputerTimer.pdb
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\obj\Debug\ComputerTimer.csprojResolveAssemblyReference.cache
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\obj\Debug\ComputerTimer.Form1.resources
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\obj\Debug\ComputerTimer.Properties.Resources.resources
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\obj\Debug\ComputerTimer.csproj.GenerateResource.Cache
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\obj\Debug\ComputerTimer.csproj.CoreCompileInputs.cache
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\obj\Debug\ComputerTimer.exe
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\obj\Debug\ComputerTimer.pdb
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\bin\Debug\ComputerTimer.exe.manifest
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\bin\Debug\ComputerTimer.application
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\obj\Debug\ComputerTimer.exe.manifest
+C:\Users\Nicaa\source\repos\ComputerTimer\ComputerTimer\obj\Debug\ComputerTimer.application
