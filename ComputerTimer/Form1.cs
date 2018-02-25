@@ -38,8 +38,6 @@ namespace ComputerTimer
 
             int seconds = (int)span.TotalSeconds;
 
-            
-
             if (seconds <= 0)
             {
                 DialogResult dialogResult = MessageBox.Show("Second = 0 this will shutdown computer now? \nAre you sure your want to shutdown now?", "Shutdown now", MessageBoxButtons.YesNo);
